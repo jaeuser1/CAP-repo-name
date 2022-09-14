@@ -7,6 +7,7 @@ import { ArticleGridItem, withGrid } from '../components/grid';
 import Image from 'next/image';
 import Layout from '../components/layout';
 
+
 export default function HomepageTemplate({
 	sortedArticles,
 	footerMenu,
